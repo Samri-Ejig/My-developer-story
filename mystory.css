@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    text-decoration: overline underline;
+    color: blue;
+    font-size: 30px;
+    text-shadow: 0in;
+  }
+
+
+  
+ img {
+    float: left;
+    margin: 0px;
+    width: 200px;
+} 
+p {
+ font-size: 20px;
+ font-style: normal;
+ letter-spacing: 0vmin;
+
+}
+ul {
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: 0vmin;
+
+
+}
