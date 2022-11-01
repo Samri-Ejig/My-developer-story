@@ -6,13 +6,12 @@ h1 {
     text-shadow: 0in;
   }
 
+img{
 
-  
- img {
-    float: left;
-    margin: 0px;
-    width: 200px;
-} 
+    float: center;
+    margin:0px;
+    width:20ch;
+}
 p {
  font-size: 20px;
  font-style: normal;
@@ -25,4 +24,17 @@ ul {
     letter-spacing: 0vmin;
 
 
+}
+
+title {
+    font-size: 50px;
+    font-style: italic;
+    letter-spacing: 0vmin;
+    float: center;
+
+
+}
+
+a {
+    float: center;
 }

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header{
+    width: 100%;
+    height:100vh;
+    position: relative;
+    overflow: hidden;
+    background: orange;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+   overflow: hidden;
+   background-color: chartreuse;
+}
+.picture{
+    flex-basis: 40%;
+}
+.picture img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+}
+
+.nav-links{
+    overflow: hidden;
+    background-color: chartreuse;
+    
+}
+.nav-links a.homepage{
+    background-color: rgb(82, 22, 62);
+    color:aliceblue;
+}
+
+.nav-links a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
