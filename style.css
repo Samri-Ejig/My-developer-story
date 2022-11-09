@@ -102,7 +102,7 @@ body{
 .main{
     margin-bottom:0px;
     margin-top: 0;
-    background-color: rgba(168, 143, 45, 0.72);
+    background-color: rgba(239, 238, 233, 0.72);
 }
 .main__container {
     display:flex;
@@ -112,7 +112,7 @@ body{
     margin-right: 0;
     margin-top: 0;
     height:100%;
-   background-color: rgba(168, 143, 45, 0.72);
+   background-color: rgba(223, 225, 220, 0.005);
     z-index: -1;
     width: 180%;
     max-width: 1700px;
@@ -188,7 +188,7 @@ ul{
  }    
 .icon__bar {
     width: 100%; 
-    background-color: rgb(240, 233, 233); 
+    background-color: rgb(182, 115, 115); 
     overflow: auto; 
   }
   
