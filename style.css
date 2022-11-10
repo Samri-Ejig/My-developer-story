@@ -6,7 +6,9 @@
 }
 
 body{
-    display: block;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
     margin: 0 auto;
     scroll-behavior: smooth;
 }
@@ -102,6 +104,7 @@ body{
 .main{
     margin-bottom:0px;
     margin-top: 0;
+    flex-grow: 1;
     background-color: rgba(239, 238, 233, 0.72);
 }
 .main__container {
@@ -205,3 +208,8 @@ ul{
     background-color: rgb(18, 36, 240); 
   }
 
+footer {
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+}
