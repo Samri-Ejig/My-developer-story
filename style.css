@@ -257,6 +257,11 @@ ul{
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
 }
+#contact a{
+
+    font-size: 20px;
+    font-weight: bold;
+}
 
 fieldset {
   border: medium none !important;
