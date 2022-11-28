@@ -126,7 +126,7 @@ body{
 }
 
 .main__content h1 {
-    font-size: 8rem;
+    font-size: 4rem;
     text-align: start;
     background-color: #ff8177;
     background-image: linear-gradient(to top, #e513bb 0%, #9a0666 100%);
@@ -150,7 +150,7 @@ body{
 }
 
 .main__content h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     background-color: #f00b0b;
     background-size: 100%;
     -webkit-background-clip: text;
@@ -178,6 +178,7 @@ ul{
     position:relative;
     float: left;
     z-index: 1;
+    padding: auto;
 }  
  .second_pic{
     height: 50%;
